@@ -1,8 +1,12 @@
 <?php
 /**
- * Plugin Name: Beauty Box
+ * Plugin Name: Gutenberg Beauty Box
  * Description: Add a customizable box around your content.
+ * Plugin URI: https://github.com/StevenDufresne/beauty-box-gutenberg-block
  * Author: dufresnesteven
+ * Version: 1.1.0
+ * License: GPL2+
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
 function gutenberg_beauty_box_register() {

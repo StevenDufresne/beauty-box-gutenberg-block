@@ -1,9 +1,10 @@
-=== Plugin Name ===
+=== Beauty Box ===
 Contributors: dufresnesteven
 Tags: container, box
 Requires at least: 5.0
 Tested up to: 5.3.2
 Stable tag: 1.1
+Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,27 +25,18 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 (or jpg, jpeg, gif).
 2. This is the second screen shot
 
-== A brief Markdown Example ==
+== Frequently Asked Questions ==
 
-Ordered list:
+= Q: Can I contribute to the project? =
 
-1. Some feature
-1. Another feature
-1. Something else about the plugin
+A: Yep! This is the GitHub Repository: https://github.com/StevenDufresne/beauty-box-gutenberg-block
 
-Unordered list:
+== Changelog ==
 
-* something
-* something else
-* third thing
+= 1.0 =
+* Initial Publication.
 
-Here's a link to [WordPress](https://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
-Titles are optional, naturally.
+== Upgrade Notice ==
 
-[markdown syntax]: https://daringfireball.net/projects/markdown/syntax
-            "Markdown is what the parser uses to process much of the readme file"
-
-Markdown uses email style notation for blockquotes and I've been told:
-> Asterisks for *emphasis*. Double it up  for **strong**.
-
-`<?php code(); // goes in backticks ?>`
+= 1.0 =
+Nothing to report
